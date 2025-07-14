@@ -126,6 +126,3 @@ Follow DRI
 *   [NSHE](https://nshe.nevada.edu/)
 *   [DRI Bylaws](https://www.dri.edu/wp-content/uploads/DRI_Bylaws-2024.pdf)
 *   [Conflict of Interest Policy](https://s3-us-west-2.amazonaws.com/webfiles.dri.edu/WorkWithUs/DRIConflictofInterestPolicy.pdf)
-
-
-Save & Accept
