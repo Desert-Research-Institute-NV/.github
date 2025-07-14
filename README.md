@@ -82,20 +82,6 @@ Our Story
 
 In 1959, the Nevada State Legislature passed [Nevada Revised Statue (NRS) 396.795](https://www.leg.state.nv.us/NRS/NRS-396.html#NRS396Sec795), creating a division of the University of Nevada system specifically devoted to conducting research. From this legislative action, a small group of farsighted scientists, academic leaders, and entrepreneurs created the Desert Research Institute (DRI), a unique organization that combines the classic academic tradition of high-quality basic research with the productive focus of applied, interdisciplinary research.
 
-### $52 million in sponsored research
-
-### 600+ Scientists, engineers, students, and staff
-
-### 300+ Projects
-
-### 140+ PhD Research Faculty
-
-### 40 Specialized Labs & Facilities
-
-### $9 in total economic benefit to Nevada for every $1 in state investment
-
-### Two Research campuses
-
 ### One Mission to advance science and apply solutions
 
 Working to solve our most challenging environmental problems.
@@ -151,25 +137,5 @@ Follow DRI
 *   [DRI Bylaws](https://www.dri.edu/wp-content/uploads/DRI_Bylaws-2024.pdf)
 *   [Conflict of Interest Policy](https://s3-us-west-2.amazonaws.com/webfiles.dri.edu/WorkWithUs/DRIConflictofInterestPolicy.pdf)
 
-##### DRI's Privacy and Cookies Policy
-
-We use cookies to offer you a better experience on our website, analyze our site traffic, and to provide social sharing functionality for our online stories. By continuing to use this website, you consent to the use of cookies in accordance with our[cookie policy.](https://www.dri.edu/gdpr-cookie-policy/)  
-AcceptReject
-
-Privacy & Cookies Policy
-
-Close
-
-#### Privacy Overview
-
-This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
-
-Necessary
-
- Necessary
-
-Always Enabled
-
-Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
 Save & Accept
