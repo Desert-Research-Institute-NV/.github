@@ -15,16 +15,12 @@ At DRI, science isn’t merely academic – it’s the key to future-proofing ou
 Research & Education
 --------------------
 
-![scientists launching drone into wildfire](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Main-DAS-1")
-
 Atmospheric Sciences
 --------------------
 
 Research and services related to air quality and associated health risks, climate, cloud and aerosol physics, renewable energy, fire science, and atmospheric dynamics.
 
 [**Learn More About Atmospheric Sciences**](https://www.dri.edu/atmospheric-sciences/)
-
-![Dr. Kumud Acharya sifting through water](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Main-DHS-1")
 
 Hydrologic Sciences
 -------------------
@@ -33,16 +29,12 @@ Research, development, and education services contributing to society’s fundam
 
 [**Learn More About Hydrologic Sciences**](https://www.dri.edu/hydrologic-sciences/)
 
-![scientist pointing at hieroglyphics](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Main-DES-1")
-
 Earth & Ecosystem Sciences 
 ---------------------------
 
 Research in the life & earth sciences, particularly those dealing with the complex interactions of geological processes, organisms, biological communities, and human societies.
 
 [**Learn More About Earth & Ecosystems Sciences**](https://www.dri.edu/earth-ecosystem-sciences/)
-
-![teachers listening to a presentation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Education-development-Thumbnail")
 
 Education & Workforce Development
 ---------------------------------
@@ -51,8 +43,6 @@ Training Nevada's K-12 teachers and providing professional development opportuni
 
 [**Learn More About Education  
 & Workforce Development**](https://www.dri.edu/education-workforce-development/ "Learn More About Education & Workforce Development")
-
-![scientists in a lab](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20524'%3E%3C/svg%3E "About-Faculty-thumbnail")
 
 Our Faculty and Staff
 ---------------------
