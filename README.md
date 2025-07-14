@@ -1,1 +1,175 @@
-# .github
+About DRI
+=========
+
+Science That Matters Now
+------------------------
+
+We are Nevada’s non-profit research institute, founded in 1959 to empower experts to focus on science that matters. We work with communities across the state –and the world– to address their most pressing scientific questions, while building bridges between scientists and policymakers to enact positive change.
+
+We’re proud that our scientists continuously produce solutions that better human and environmental health. We pioneered the use of chemical fingerprinting to identify sources of air pollution in Nevada’s cities and reduce haze in National Parks across the country. We work with communities downwind of historic atomic testing at the Nevada National Security Site to monitor radiation exposure. We used ice trapped below the surface of Greenland to connect historic levels of lead pollution with the rise and fall of ancient economies like the Roman Empire. For decades, we have been using satellite technology to locate, and build, drinking water wells for communities in Ghana and we have enhanced precipitation throughout Nevada, the driest state in the nation, using decades of research on cloud seeding.
+
+Scientists at DRI are involved with students at other Nevada System of Higher Education institutions, offering research positions and teaching support, but are not expected to take on the heavy teaching loads of university professors. Instead, they are encouraged to follow their research interests across the traditional boundaries of scientific fields, collaborating across DRI and with scientists worldwide. We reach thousands of young Nevada students annually with specialized science and robotics lessons and free continuing education for teachers. All faculty support their own research through grants, bringing in nearly $5 to the Nevada economy for every $1 of state funds received. With more than 600 scientists, engineers, students, and staff across our Reno and Las Vegas campuses, we conducted more than $52 million in sponsored research focused on improving peoples’ lives in 2024 alone.
+
+At DRI, science isn’t merely academic – it’s the key to future-proofing our communities and building a better world.
+
+Research & Education
+--------------------
+
+![scientists launching drone into wildfire](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Main-DAS-1")
+
+Atmospheric Sciences
+--------------------
+
+Research and services related to air quality and associated health risks, climate, cloud and aerosol physics, renewable energy, fire science, and atmospheric dynamics.
+
+[**Learn More About Atmospheric Sciences**](https://www.dri.edu/atmospheric-sciences/)
+
+![Dr. Kumud Acharya sifting through water](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Main-DHS-1")
+
+Hydrologic Sciences
+-------------------
+
+Research, development, and education services contributing to society’s fundamental understanding of hydrologic systems and advancing the sustainability of water resources.
+
+[**Learn More About Hydrologic Sciences**](https://www.dri.edu/hydrologic-sciences/)
+
+![scientist pointing at hieroglyphics](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Main-DES-1")
+
+Earth & Ecosystem Sciences 
+---------------------------
+
+Research in the life & earth sciences, particularly those dealing with the complex interactions of geological processes, organisms, biological communities, and human societies.
+
+[**Learn More About Earth & Ecosystems Sciences**](https://www.dri.edu/earth-ecosystem-sciences/)
+
+![teachers listening to a presentation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20380%20200'%3E%3C/svg%3E "Education-development-Thumbnail")
+
+Education & Workforce Development
+---------------------------------
+
+Training Nevada's K-12 teachers and providing professional development opportunities and training for education-based activities.
+
+[**Learn More About Education  
+& Workforce Development**](https://www.dri.edu/education-workforce-development/ "Learn More About Education & Workforce Development")
+
+![scientists in a lab](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20524'%3E%3C/svg%3E "About-Faculty-thumbnail")
+
+Our Faculty and Staff
+---------------------
+
+DRI’s faculty members are nontenured, entrepreneurial and responsible for their own salaries from external grants and contracts. This blend of academic rigor and private-sector pragmatism has earned DRI a reputation for delivering rapid, high-quality environmental science in a businesslike fashion.
+
+[**Explore the DRI Faculty and Staff Directory**](https://www.dri.edu/directory/)
+
+Mission & Vision
+----------------
+
+### OUR MISSION
+
+We are a home for science to create a better future for the people of Nevada and the world. We implement our mission through shared governance and by fostering diverse talent.
+
+### OUR VISION
+
+We envision a world in which trust between scientists and the public forms the basis for a more sustainable and resilient environment for all people to live, grow, and prosper.
+
+Established in 1959
+-------------------
+
+_“To contribute more effectively to the security of the nation and to promote the general welfare of the State of Nevada and its citizens through the development of educational and scientific research, the Board of Regents may establish for educational and scientific research a facility within the System to be known as the Desert Research Institute.”_
+
+Our Story
+---------
+
+In 1959, the Nevada State Legislature passed [Nevada Revised Statue (NRS) 396.795](https://www.leg.state.nv.us/NRS/NRS-396.html#NRS396Sec795), creating a division of the University of Nevada system specifically devoted to conducting research. From this legislative action, a small group of farsighted scientists, academic leaders, and entrepreneurs created the Desert Research Institute (DRI), a unique organization that combines the classic academic tradition of high-quality basic research with the productive focus of applied, interdisciplinary research.
+
+### $52 million in sponsored research
+
+### 600+ Scientists, engineers, students, and staff
+
+### 300+ Projects
+
+### 140+ PhD Research Faculty
+
+### 40 Specialized Labs & Facilities
+
+### $9 in total economic benefit to Nevada for every $1 in state investment
+
+### Two Research campuses
+
+### One Mission to advance science and apply solutions
+
+Working to solve our most challenging environmental problems.
+
+More than 600 highly-skilled scientists, engineers, technicians, students, and staff work collaboratively within and across four research divisions focused on understanding and answering critical science questions about changes in the environment, water quality and availability, air quality, the sustainability of desert lands, life in extreme environments, education, and more.
+
+© Desert Research Institute
+
+Who We Are
+
+[Faculty Directory](https://www.dri.edu/directory/)
+
+[About DRI](https://www.dri.edu/about/)
+
+[Our Leadership](https://www.dri.edu/leadership/)
+
+[Our History](https://www.dri.edu/about/history-timeline/)
+
+[Careers](https://www.dri.edu/careers/)
+
+What We Do
+
+[Areas of Research](https://www.dri.edu/researchareas/)
+
+[Special Programs](https://www.dri.edu/programs/)
+
+[Labs & Facilities](https://www.dri.edu/labs/)
+
+[News & Events](https://www.dri.edu/news/news-announcements/)
+
+[Contact Us](https://www.dri.edu/contact-dri/)
+
+Follow DRI
+
+[](https://www.linkedin.com/company/desert-research-institute/)
+[](https://www.instagram.com/driscience/)
+[](https://www.facebook.com/driscience/)
+[](https://www.threads.net/@driscience)
+
+[](https://bsky.app/profile/driscience.bsky.social)
+[](https://twitter.com/DRIscience)
+[](https://www.youtube.com/driscience)
+[](https://flickr.com/photos/driscience/)
+
+[Newsletter Sign-up](https://signup.e2ma.net/signup/1802006/1763250/)
+
+*   [Accessibility](https://www.dri.edu/accessibility-policy/)
+*   [Cookie Policy](https://www.dri.edu/gdpr-cookie-policy/)
+*   [Privacy Policy](https://www.dri.edu/privacy-policy-new/)
+*   [Public & Personal Safety](https://www.dri.edu/public-and-personal-safety/)
+*   [Equal Employment Opportunity](https://www.dri.edu/careers/title-ix/)
+*   [NSHE](https://nshe.nevada.edu/)
+*   [DRI Bylaws](https://www.dri.edu/wp-content/uploads/DRI_Bylaws-2024.pdf)
+*   [Conflict of Interest Policy](https://s3-us-west-2.amazonaws.com/webfiles.dri.edu/WorkWithUs/DRIConflictofInterestPolicy.pdf)
+
+##### DRI's Privacy and Cookies Policy
+
+We use cookies to offer you a better experience on our website, analyze our site traffic, and to provide social sharing functionality for our online stories. By continuing to use this website, you consent to the use of cookies in accordance with our[cookie policy.](https://www.dri.edu/gdpr-cookie-policy/)  
+AcceptReject
+
+Privacy & Cookies Policy
+
+Close
+
+#### Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Necessary
+
+ Necessary
+
+Always Enabled
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+Save & Accept
